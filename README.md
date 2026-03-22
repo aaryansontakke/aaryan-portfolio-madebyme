@@ -1,13 +1,13 @@
-# My Portfolio Wesbite - Overview 🚀
+# My Portfolio website - Overview 🚀
 
-This repository contains the open source version of my porfolio website.
+This repository contains the open source version of my portfolio website.
 Do check it out!
 
 ## Instructions 🛠️
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+This project uses the standard **GSAP** package (version 3.14.2+) which includes previously premium plugins like SplitText and ScrollSmoother, making it ready for deployment without trial limitations.
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
 
 ![Portfolio-Preview](public/images/preview.png)
 
