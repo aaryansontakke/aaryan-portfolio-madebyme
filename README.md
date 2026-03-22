@@ -1,13 +1,13 @@
-# My Portfolio website - Overview 🚀
+ My Portfolio website - Overview 
 
 This repository contains the open source version of my portfolio website.
 Do check it out!
 
-## Instructions 🛠️
+Instructions 
 
 This project uses the standard **GSAP** package (version 3.14.2+) which includes previously premium plugins like SplitText and ScrollSmoother, making it ready for deployment without trial limitations.
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
+Techstack - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
 
 ![Portfolio-Preview](public/images/preview.png)
 
